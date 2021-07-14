@@ -6,4 +6,5 @@ A collection of standardized config files for your code.
 - [webpack](https://github.com/DivinIrakiza/config-files/blob/main/webpack.config.js)
 - [tsconfig](https://github.com/DivinIrakiza/config-files/blob/main/tsconfig.js)
 - [browserslist](https://github.com/DivinIrakiza/config-files/blob/main/.browserslistrc)
+- [editorconfig](https://github.com/DivinIrakiza/config-files/blob/main/.editorconfig)
 - [js.gitignore](https://github.com/DivinIrakiza/config-files/blob/main/js.gitignore)
